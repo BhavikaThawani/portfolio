@@ -1,0 +1,5 @@
+.contact {
+  flex-direction: column;
+  cursor: pointer;
+  padding-bottom: 30px;
+}
